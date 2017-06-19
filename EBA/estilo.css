@@ -1,0 +1,22 @@
+.inicio{
+	background: #FCD3E1;
+}
+p,span{
+	color: #fff;
+}
+h1{
+	color: #fff;
+	text-align: center;
+}
+.boton{
+	width: 200px;
+	height: 50px;
+	background: #81F7F3;
+	color: #fff;
+	margin: 0 auto;
+	border-radius: 10px
+	box-shadow: 5px 2px 2px #fff;
+}
+.c2{
+	background: #B4D63C;
+}
